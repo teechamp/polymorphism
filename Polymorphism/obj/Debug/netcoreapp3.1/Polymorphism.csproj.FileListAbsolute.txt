@@ -1,0 +1,11 @@
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csprojAssemblyReference.cache
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\codebitsacademy\C-Sharp\LabTaskPolymorphism\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
